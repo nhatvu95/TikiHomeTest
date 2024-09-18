@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  TestTiki
+
+  Created by VuPham on 17/9/24.
+  
+*/
+
+// MARK: - HotSearch
+"Search_HotSearch" = "Hot Search";
+
+// MARK: - Common
+"ParseError" = "Data processing error";
+"NetworkError" = "Netwwork error";
+"TokenInvalid" = "Token Invalid";
+"AlertErrorTitle" = "Error";
+"AlertActionDone" = "Done";
+"Reload" = "Reload";
